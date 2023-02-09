@@ -1,3 +1,5 @@
+# You must be root for this to work
+
 # cpanel-changeAccountOwner
 
 Slapped together - Nothing I am proud of lives in this script
