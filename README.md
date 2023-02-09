@@ -2,7 +2,7 @@
 
 Slapped together - Nothing I am proud of lives in this script
 
-# What is does
+# What it does
 
 Uses the cpanel whm api to gather all accounts and change the ownership to the new owner specified in the script.
 
